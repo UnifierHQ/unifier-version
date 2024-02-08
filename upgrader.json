@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.0",
-  "release": 2,
-  "description": "Bug fixes"
+  "version": "v1.0.1",
+  "release": 3,
+  "description": "Add force upgrade"
 }
