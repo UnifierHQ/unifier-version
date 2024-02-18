@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.1",
-  "release": 3,
-  "description": "Add force upgrade"
+  "version": "v1.0.2",
+  "release": 4,
+  "description": "Adds auto reboot"
 }
