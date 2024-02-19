@@ -1,5 +1,5 @@
 {
   "version": "v1.0.2",
-  "release": 4,
-  "description": "Adds auto reboot"
+  "release": 5,
+  "description": "Auto reboot bugfix"
 }
