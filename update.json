@@ -1,6 +1,6 @@
 {
   "version": "v0.4.0",
-  "release": 11,
+  "release": 12,
   "reboot": 9,
-  "description": "- Unifier Upgrader installer added to admin.py\n- Bug fixes with global emojis and reaction images"
+  "description": "- Added extensions info for all default extensions"
 }
