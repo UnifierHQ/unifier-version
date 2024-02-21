@@ -1,6 +1,6 @@
 {
   "version": "v0.4.0",
-  "release": 12,
+  "release": 13,
   "reboot": 9,
-  "description": "- Added extensions info for all default extensions"
+  "description": "- Message authors in replies will now be shown as their display name"
 }
