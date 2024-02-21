@@ -1,6 +1,6 @@
 {
   "version": "v0.4.1",
-  "release": 14,
+  "release": 15,
   "reboot": 9,
-  "description": "- Adds a moderator ping command for emergencies\n- Fixed experiment enrollment status not saving"
+  "description": "- Patched an exploit where users could use reaction images in locked rooms and read-only channels."
 }
