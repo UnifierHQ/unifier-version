@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.2",
-  "release": 5,
-  "description": "Auto reboot bugfix"
+  "version": "v1.1.0",
+  "release": 6,
+  "description": "Adds Revolt Support upgrader"
 }
