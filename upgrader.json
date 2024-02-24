@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.3",
+  "version": "v1.1.0",
   "release": 7,
-  "description": "Added Upgrader extension info for extensions command"
+  "description": "Adds Revolt Support upgrader"
 }
