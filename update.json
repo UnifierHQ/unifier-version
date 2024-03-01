@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.0",
-  "release": 17,
+  "version": "v1.0.1",
+  "release": 18,
   "reboot": 15,
-  "description": "- New badge system, might upgrade to a full-on profile system later\n- Support for Revolt Support extension\n- Revolt Support installer\n- Bot is finally out of beta\n- more stuff"
+  "description": "- Adds toggle in config for context menu commands"
 }
