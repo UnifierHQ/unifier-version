@@ -1,6 +1,6 @@
 {
-  "version": "v0.9.0",
-  "release": 16,
+  "version": "v1.0.1",
+  "release": 19,
   "reboot": 15,
-  "description": "- WIP Revolt Support"
+  "description": "- Disables reaction images due to a security vulnerability in PIL."
 }
