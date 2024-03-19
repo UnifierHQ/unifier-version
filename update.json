@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.1",
-  "release": 19,
-  "reboot": 15,
-  "description": "- Disables reaction images due to a security vulnerability in PIL."
+  "version": "v1.1.0",
+  "release": 20,
+  "reboot": 19,
+  "description": "- WIP"
 }
