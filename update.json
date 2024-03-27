@@ -2,5 +2,5 @@
   "version": "v1.1.3",
   "release": 23,
   "reboot": 21,
-  "description": "- Strengthen invite detection by detecting invites from \n- Cache backup compression"
+  "description": "- Strengthen invite detection by detecting for invites post-bypass cleanup\n- Invites now temporarily ban a user for 10 minutes, with the time doubling until a dynamic threshold is met\n- Auto permaban when threshold is met"
 }
