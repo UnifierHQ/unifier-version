@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.0",
-  "release": 1,
-  "description": "Stable release"
+  "version": "v1.0.1",
+  "release": 2,
+  "description": "- Fixed KeyError exceptions caused by servers not being linked to certain rooms"
 }

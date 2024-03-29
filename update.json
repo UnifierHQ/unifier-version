@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.0",
-  "release": 20,
-  "reboot": 19,
-  "description": "- Bridge has been overhauled for better stability and future platform support.\n- Message deletion has been rewritten completely to use Bridge v2.\n- Revolt Support is now in stable release.\n- Fixed Reaction Images broken due to deprecation of Pillow `ImageDraw.textsize`\n- Experimental Guilded support\n- Graceful shutdown (`u!shutdown`) to prevent Guilded Support hanging shutdown process\n- Renamed PRs to Posts\n- Messages and Posts cache can now be saved."
+  "version": "v1.1.3",
+  "release": 23,
+  "reboot": 21,
+  "description": "- Strengthen invite detection by detecting for invites post-bypass cleanup\n- Invites now temporarily ban a user for 10 minutes, with the time doubling until a dynamic threshold is met\n- Auto permaban when threshold is met"
 }
