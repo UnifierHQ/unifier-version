@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.1",
-  "release": 2,
-  "description": "- Fixed KeyError exceptions caused by servers not being linked to certain rooms"
+  "version": "v1.0.2",
+  "release": 3,
+  "description": "- Change logging system"
 }

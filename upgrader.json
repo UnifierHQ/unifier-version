@@ -1,5 +1,5 @@
 {
-  "version": "v1.2.0",
-  "release": 9,
-  "description": "Backup fix"
+  "version": "v1.2.1",
+  "release": 10,
+  "description": "- Change logging system"
 }
