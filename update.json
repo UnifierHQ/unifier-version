@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.4",
-  "release": 26,
+  "version": "v1.1.5",
+  "release": 27,
   "reboot": 25,
-  "description": "Linker Pro has been discontinued due to a cease and desist filed by UnifierHQ."
+  "description": "Experiment support for external bridge bots"
 }
