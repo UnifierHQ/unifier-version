@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.5",
-  "release": 27,
-  "reboot": 25,
-  "description": "Experiment support for external bridge bots"
+  "version": "v1.1.6",
+  "release": 28,
+  "reboot": 27,
+  "description": "Uptime tracking"
 }
