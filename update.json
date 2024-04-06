@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.6",
+  "version": "v1.1.7",
   "release": 28,
   "reboot": 27,
-  "description": "Uptime tracking"
+  "description": "Adds a check to ensure the channel is not connected before binding."
 }
