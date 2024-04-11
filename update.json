@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.4",
-  "release": 24,
-  "reboot": 23,
-  "description": "- Change logging system"
+  "version": "v1.1.8",
+  "release": 30,
+  "reboot": 29,
+  "description": "Tokens are now read from .env files instead of config.json"
 }
