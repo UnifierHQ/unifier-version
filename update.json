@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.9",
-  "release": 31,
+  "version": "v1.1.10",
+  "release": 32,
   "reboot": 30,
-  "description": "AGPLv3 compliance"
+  "description": "Limit roomname characters"
 }
