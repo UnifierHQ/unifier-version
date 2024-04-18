@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.10",
-  "release": 32,
+  "version": "v1.1.11",
+  "release": 33,
   "reboot": 30,
-  "description": "Limit roomname characters"
+  "description": "Patches a bug where resent messages could not be identified"
 }
