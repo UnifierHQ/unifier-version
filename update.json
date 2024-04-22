@@ -2,5 +2,6 @@
   "version": "v1.1.12",
   "release": 34,
   "reboot": 33,
+  "upgrader": 11,
   "description": "Make config read-only for all extensions"
 }

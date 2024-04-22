@@ -1,5 +1,6 @@
 {
   "version": "v1.0.0",
   "release": 0,
+  "upgrader": 12,
   "description": "Initial release"
 }
