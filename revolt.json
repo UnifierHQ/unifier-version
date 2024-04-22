@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.3",
-  "release": 4,
-  "description": "Tokens are now read from .env files instead of config.json"
+  "version": "v1.0.4",
+  "release": 5,
+  "description": "Make config read-only for all extensions"
 }

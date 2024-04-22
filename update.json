@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.11",
-  "release": 33,
-  "reboot": 30,
-  "description": "Patches a bug where resent messages could not be identified"
+  "version": "v1.1.12",
+  "release": 34,
+  "reboot": 33,
+  "description": "Make config read-only for all extensions"
 }

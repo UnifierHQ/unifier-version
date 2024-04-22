@@ -1,5 +1,5 @@
 {
-  "version": "v1.2.2",
-  "release": 11,
-  "description": "- Add dependency installer/upgrader\n- Add config updater"
+  "version": "v1.2.3",
+  "release": 12,
+  "description": "Make config read-only for all extensions"
 }
