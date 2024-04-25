@@ -1,7 +1,22 @@
 {
-  "version": "v1.1.12",
-  "release": 34,
-  "reboot": 33,
+  "id": "system",
+  "name": "System extensions",
+  "description": "Unifier system extensions",
+  "version": "v1.2.0",
+  "release": 36,
+  "reboot": 35,
   "upgrader": 11,
-  "description": "Make config read-only for all extensions"
+  "minimum": 0,
+  "shutdown": false,
+  "modules": [
+    "config.py",
+    "bridge.py",
+    "moderation.py",
+    "uptime.py",
+    "badge.py"
+  ],
+  "utils": [
+    "log.py",
+    "rapidphish.py"
+  ]
 }
