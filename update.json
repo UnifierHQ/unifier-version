@@ -5,6 +5,15 @@
   "version": "v2.0.0",
   "release": 49,
   "reboot": 48,
+  "legacy": [
+    {
+      "lower": 36,
+      "upper": 48,
+      "version": "v1.2.5",
+      "release": 0,
+      "reboot": 0
+    }
+  ]
   "upgrader": 11,
   "minimum": 0,
   "shutdown": false,
