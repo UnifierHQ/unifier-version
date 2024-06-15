@@ -2,9 +2,9 @@
   "id": "system",
   "name": "System extensions",
   "description": "Unifier system extensions",
-  "version": "v2.0.2",
-  "release": 52,
-  "reboot": 51,
+  "version": "v2.0.3",
+  "release": 53,
+  "reboot": 52,
   "legacy": [
     {
       "lower": 36,
@@ -21,7 +21,6 @@
     "config.py",
     "bridge.py",
     "moderation.py",
-    "uptime.py",
     "badge.py"
   ],
   "utils": [
