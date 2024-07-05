@@ -1,6 +1,0 @@
-{
-  "version": "v1.0.4",
-  "release": 5,
-  "upgrader": 12,
-  "description": "Make config read-only for all extensions"
-}
