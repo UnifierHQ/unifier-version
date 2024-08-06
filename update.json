@@ -2,7 +2,7 @@
   "id": "system",
   "name": "System extensions",
   "description": "Unifier system extensions",
-  "version": "v2.0.6-patch4",
+  "version": "v2.0.6-patch5",
   "release": 64,
   "reboot": 63,
   "legacy": [
