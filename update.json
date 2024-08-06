@@ -3,8 +3,8 @@
   "name": "System extensions",
   "description": "Unifier system extensions",
   "version": "v2.0.6-patch4",
-  "release": 63,
-  "reboot": 62,
+  "release": 64,
+  "reboot": 63,
   "legacy": [
     {
       "lower": 36,
