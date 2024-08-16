@@ -1,6 +1,29 @@
 {
-  "version": "v1.1.8",
-  "release": 30,
-  "reboot": 29,
-  "description": "Tokens are now read from .env files instead of config.json"
+  "id": "system",
+  "name": "System extensions",
+  "description": "Unifier system extensions",
+  "version": "v2.0.8",
+  "release": 66,
+  "reboot": 63,
+  "legacy": [
+    {
+      "lower": 36,
+      "upper": 48,
+      "version": "v1.2.7",
+      "release": 5,
+      "reboot": 0
+    }
+  ],
+  "upgrader": 11,
+  "minimum": 0,
+  "shutdown": false,
+  "modules": [
+    "config.py",
+    "bridge.py",
+    "moderation.py",
+    "badge.py"
+  ],
+  "utils": [
+    "log.py"
+  ]
 }

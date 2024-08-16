@@ -1,5 +1,0 @@
-{
-  "version": "v1.2.2",
-  "release": 11,
-  "description": "- Add dependency installer/upgrader\n- Add config updater"
-}
