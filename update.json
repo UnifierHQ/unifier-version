@@ -9,9 +9,9 @@
     {
       "lower": 36,
       "upper": 48,
-      "version": "v1.2.7",
-      "release": 5,
-      "reboot": 0
+      "version": "v1.2.8",
+      "release": 6,
+      "reboot": 5
     }
   ],
   "upgrader": 11,
