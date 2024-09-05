@@ -4,7 +4,7 @@
   "description": "Unifier system extensions",
   "version": "v3.0.0",
   "release": 74,
-  "reboot": 69,
+  "reboot": 73,
   "legacy": [
     {
       "lower": 36,
