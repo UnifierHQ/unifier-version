@@ -7,13 +7,6 @@
   "reboot": 74,
   "legacy": [
     {
-      "lower": 49,
-      "upper": 74,
-      "version": "v2.1.7",
-      "release": 0,
-      "reboot": -1
-    },
-    {
       "lower": 36,
       "upper": 48,
       "version": "v1.2.8",
