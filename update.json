@@ -2,9 +2,9 @@
   "id": "system",
   "name": "System extensions",
   "description": "Unifier system extensions",
-  "version": "v3.5.2",
-  "release": 119,
-  "reboot": 116,
+  "version": "v3.5.3",
+  "release": 120,
+  "reboot": 119,
   "b_reboot": 116,
   "legacy": [
     {
