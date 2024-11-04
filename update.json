@@ -3,7 +3,7 @@
   "name": "System extensions",
   "description": "Unifier system extensions",
   "version": "v3.6.7",
-  "release": 135,
+  "release": 136,
   "reboot": 135,
   "b_reboot": 135,
   "legacy": [
