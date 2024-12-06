@@ -23,3 +23,5 @@ if unifier_data['release'] < data['release']:
     print('update.json release number is higher than the Unifier release number.')
     print(f'Expected: {unifier_data["release"]}, got: {data["release"]}')
     sys.exit(1)
+
+print('Checks passed, update.json is valid.')
