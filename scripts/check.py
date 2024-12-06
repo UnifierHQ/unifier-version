@@ -20,8 +20,8 @@ with open('unifier/plugins/system.json', 'r') as file:
     unifier_data = json.load(file)
 
 if unifier_data['release'] < data['release']:
-    print('\x1b[36mupdate.json release number is higher than the Unifier release number.\x1b[0m')
-    print(f'\x1b[36mExpected: {unifier_data["release"]}, got: {data["release"]}\x1b[0m')
+    print('\x1b[31mupdate.json release number is higher than the Unifier release number.\x1b[0m')
+    print(f'\x1b[31mExpected: {unifier_data["release"]}, got: {data["release"]}\x1b[0m')
     sys.exit(1)
 
 print('\x1b[36mChecks passed, update.json is valid.\x1b[0m')
