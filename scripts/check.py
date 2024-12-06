@@ -4,6 +4,8 @@ import sys
 
 repo = sys.argv[1]
 
+print(repo)
+
 if repo == 'dev':
     print('\x1b[36mDev branch detected, no checks needed.\x1b[0m')
     sys.exit(0)
