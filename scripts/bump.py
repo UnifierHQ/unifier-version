@@ -14,4 +14,6 @@ data['version'] = version
 
 with open('update.json', 'w') as file:
     # noinspection PyTypeChecker
-    json.dump(data, file, indent=4)
+    json.dump(data, file, indent=2)
+
+print(json.dumps(data, indent=2))
