@@ -13,13 +13,6 @@
       "version": "v2.1.9",
       "release": 1,
       "reboot": -1
-    },
-    {
-      "lower": 36,
-      "upper": 48,
-      "version": "v1.2.10",
-      "release": 8,
-      "reboot": 5
     }
   ],
   "upgrader": 11,
