@@ -2,7 +2,7 @@ import json
 import sys
 
 version = sys.argv[1]
-release = sys.argv[2]
+release = int(sys.argv[2])
 
 with open('update.json', 'r') as file:
     data = json.load(file)
