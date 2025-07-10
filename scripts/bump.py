@@ -5,6 +5,7 @@ with open('unifier/plugins/system.json', 'r') as file:
 
 release = unifier_data['release']
 reboot = unifier_data['reboot']
+b_reboot = unifier_data['b_reboot']
 version = unifier_data['version']
 
 with open('update.json', 'r') as file:
@@ -12,6 +13,7 @@ with open('update.json', 'r') as file:
 
 data['release'] = int(release)
 data['reboot'] = int(reboot)
+data['b_reboot'] = int(b_reboot)
 data['version'] = version
 
 with open('update.json', 'w') as file:
